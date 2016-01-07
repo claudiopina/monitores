@@ -1,0 +1,4 @@
+0 2 claudio 87051578 cpina@icci.cl
+0 2 juan 84562975 jaralla@icci.cl
+0 2 heimer 85178961 hgubli@icci.cl
+0 2 eduardo 82574168 ealfonzo@icci.cl
